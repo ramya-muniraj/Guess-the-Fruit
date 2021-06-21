@@ -1,5 +1,5 @@
 # Guess-the-Fruit
-Here is the code to guess a fruit in 3 attempts
+Here is the code to guess a fruit in 3 attempts using python
 
 ## Description
 * Guess the fruit name 
